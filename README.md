@@ -14,26 +14,6 @@ This project is a Python-based automation framework that extracts car registrati
 
 ---
 
-## Project Structure
-
-```
-CarProject/
-│── automation/
-│   ├── car_scraper.py         # Automates car valuation extraction
-│   ├── comparator.py          # Compares extracted results with expected output
-│   ├── config.py              # Configurations and settings
-│   ├── utils.py               # Utility functions
-│── data/
-│   ├── car_input.txt          # Contains vehicle registration numbers
-│   ├── car_output.txt         # Expected results for validation
-│── tests/
-│   ├── test_automation.py     # Unit tests for automation components
-│── requirements.txt           # Dependencies
-│── README.md                  # This documentation
-│── run.py                      # Main script to execute the automation
-```
-
----
 
 ## Installation
 
@@ -179,13 +159,3 @@ Tests include:
 - **Logging & Reporting**: Generate detailed reports in HTML or CSV format.
 
 ---
-
-## Author
-
-- **Your Name**
-- Email: your.email@example.com
-- GitHub: [your-github](https://github.com/your-github)
-
----
-
-This README provides a clear guide on setting up, running, and maintaining the car valuation automation project. Let me know if you need modifications or additional details! 🚀
