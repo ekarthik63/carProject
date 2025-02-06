@@ -1,0 +1,1142 @@
+2025-02-05 20:18:20,846 - INFO - ====== WebDriver manager ======
+2025-02-05 20:18:21,426 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-05 20:18:21,504 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-05 20:18:21,557 - INFO - Driver [/Users/karthik/.wdm/drivers/chromedriver/mac64/133.0.6943.53/chromedriver-mac-x64/chromedriver] found in cache
+2025-02-05 20:18:28,356 - INFO - Searching for registration: AD58 VNF
+2025-02-05 20:18:48,881 - ERROR - Search failed for AD58 VNF: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101004bc8 chromedriver + 5766088
+1   chromedriver                        0x0000000100ffc7ea chromedriver + 5732330
+2   chromedriver                        0x0000000100aea680 chromedriver + 415360
+3   chromedriver                        0x0000000100b3bd7d chromedriver + 748925
+4   chromedriver                        0x0000000100b3bf21 chromedriver + 749345
+5   chromedriver                        0x0000000100b8c184 chromedriver + 1077636
+6   chromedriver                        0x0000000100b6207d chromedriver + 905341
+7   chromedriver                        0x0000000100b893e7 chromedriver + 1065959
+8   chromedriver                        0x0000000100b61e23 chromedriver + 904739
+9   chromedriver                        0x0000000100b2dbea chromedriver + 691178
+10  chromedriver                        0x0000000100b2ed41 chromedriver + 695617
+11  chromedriver                        0x0000000100fc8100 chromedriver + 5517568
+12  chromedriver                        0x0000000100fcc040 chromedriver + 5533760
+13  chromedriver                        0x0000000100fa9c87 chromedriver + 5393543
+14  chromedriver                        0x0000000100fccacb chromedriver + 5536459
+15  chromedriver                        0x0000000100f98544 chromedriver + 5322052
+16  chromedriver                        0x0000000100fea6e8 chromedriver + 5658344
+17  chromedriver                        0x0000000100fea8af chromedriver + 5658799
+18  chromedriver                        0x0000000100ffc3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:18:48,884 - INFO - Completed: AD58 VNF - Status: Search Failed
+2025-02-05 20:18:48,884 - INFO - Searching for registration: BW57 BOW
+2025-02-05 20:19:09,421 - ERROR - Search failed for BW57 BOW: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101004bc8 chromedriver + 5766088
+1   chromedriver                        0x0000000100ffc7ea chromedriver + 5732330
+2   chromedriver                        0x0000000100aea680 chromedriver + 415360
+3   chromedriver                        0x0000000100b3bd7d chromedriver + 748925
+4   chromedriver                        0x0000000100b3bf21 chromedriver + 749345
+5   chromedriver                        0x0000000100b8c184 chromedriver + 1077636
+6   chromedriver                        0x0000000100b6207d chromedriver + 905341
+7   chromedriver                        0x0000000100b893e7 chromedriver + 1065959
+8   chromedriver                        0x0000000100b61e23 chromedriver + 904739
+9   chromedriver                        0x0000000100b2dbea chromedriver + 691178
+10  chromedriver                        0x0000000100b2ed41 chromedriver + 695617
+11  chromedriver                        0x0000000100fc8100 chromedriver + 5517568
+12  chromedriver                        0x0000000100fcc040 chromedriver + 5533760
+13  chromedriver                        0x0000000100fa9c87 chromedriver + 5393543
+14  chromedriver                        0x0000000100fccacb chromedriver + 5536459
+15  chromedriver                        0x0000000100f98544 chromedriver + 5322052
+16  chromedriver                        0x0000000100fea6e8 chromedriver + 5658344
+17  chromedriver                        0x0000000100fea8af chromedriver + 5658799
+18  chromedriver                        0x0000000100ffc3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:19:09,425 - INFO - Completed: BW57 BOW - Status: Search Failed
+2025-02-05 20:19:09,425 - INFO - Searching for registration: SG18 HTN
+2025-02-05 20:19:30,019 - ERROR - Search failed for SG18 HTN: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101004bc8 chromedriver + 5766088
+1   chromedriver                        0x0000000100ffc7ea chromedriver + 5732330
+2   chromedriver                        0x0000000100aea680 chromedriver + 415360
+3   chromedriver                        0x0000000100b3bd7d chromedriver + 748925
+4   chromedriver                        0x0000000100b3bf21 chromedriver + 749345
+5   chromedriver                        0x0000000100b8c184 chromedriver + 1077636
+6   chromedriver                        0x0000000100b6207d chromedriver + 905341
+7   chromedriver                        0x0000000100b893e7 chromedriver + 1065959
+8   chromedriver                        0x0000000100b61e23 chromedriver + 904739
+9   chromedriver                        0x0000000100b2dbea chromedriver + 691178
+10  chromedriver                        0x0000000100b2ed41 chromedriver + 695617
+11  chromedriver                        0x0000000100fc8100 chromedriver + 5517568
+12  chromedriver                        0x0000000100fcc040 chromedriver + 5533760
+13  chromedriver                        0x0000000100fa9c87 chromedriver + 5393543
+14  chromedriver                        0x0000000100fccacb chromedriver + 5536459
+15  chromedriver                        0x0000000100f98544 chromedriver + 5322052
+16  chromedriver                        0x0000000100fea6e8 chromedriver + 5658344
+17  chromedriver                        0x0000000100fea8af chromedriver + 5658799
+18  chromedriver                        0x0000000100ffc3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:19:30,021 - INFO - Completed: SG18 HTN - Status: Search Failed
+2025-02-05 20:23:39,507 - INFO - ====== WebDriver manager ======
+2025-02-05 20:23:40,073 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-05 20:23:40,154 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-05 20:23:40,208 - INFO - Driver [/Users/karthik/.wdm/drivers/chromedriver/mac64/133.0.6943.53/chromedriver-mac-x64/chromedriver] found in cache
+2025-02-05 20:23:46,909 - INFO - Searching for registration: AD58 VNF
+2025-02-05 20:24:28,071 - ERROR - Search failed for AD58 VNF: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001050e2bc8 chromedriver + 5766088
+1   chromedriver                        0x00000001050da7ea chromedriver + 5732330
+2   chromedriver                        0x0000000104bc8680 chromedriver + 415360
+3   chromedriver                        0x0000000104c19d7d chromedriver + 748925
+4   chromedriver                        0x0000000104c19f21 chromedriver + 749345
+5   chromedriver                        0x0000000104c6a184 chromedriver + 1077636
+6   chromedriver                        0x0000000104c4007d chromedriver + 905341
+7   chromedriver                        0x0000000104c673e7 chromedriver + 1065959
+8   chromedriver                        0x0000000104c3fe23 chromedriver + 904739
+9   chromedriver                        0x0000000104c0bbea chromedriver + 691178
+10  chromedriver                        0x0000000104c0cd41 chromedriver + 695617
+11  chromedriver                        0x00000001050a6100 chromedriver + 5517568
+12  chromedriver                        0x00000001050aa040 chromedriver + 5533760
+13  chromedriver                        0x0000000105087c87 chromedriver + 5393543
+14  chromedriver                        0x00000001050aaacb chromedriver + 5536459
+15  chromedriver                        0x0000000105076544 chromedriver + 5322052
+16  chromedriver                        0x00000001050c86e8 chromedriver + 5658344
+17  chromedriver                        0x00000001050c88af chromedriver + 5658799
+18  chromedriver                        0x00000001050da3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:24:28,073 - WARNING - Message: 
+Stacktrace:
+0   chromedriver                        0x00000001050e2bc8 chromedriver + 5766088
+1   chromedriver                        0x00000001050da7ea chromedriver + 5732330
+2   chromedriver                        0x0000000104bc8680 chromedriver + 415360
+3   chromedriver                        0x0000000104c19d7d chromedriver + 748925
+4   chromedriver                        0x0000000104c19f21 chromedriver + 749345
+5   chromedriver                        0x0000000104c6a184 chromedriver + 1077636
+6   chromedriver                        0x0000000104c4007d chromedriver + 905341
+7   chromedriver                        0x0000000104c673e7 chromedriver + 1065959
+8   chromedriver                        0x0000000104c3fe23 chromedriver + 904739
+9   chromedriver                        0x0000000104c0bbea chromedriver + 691178
+10  chromedriver                        0x0000000104c0cd41 chromedriver + 695617
+11  chromedriver                        0x00000001050a6100 chromedriver + 5517568
+12  chromedriver                        0x00000001050aa040 chromedriver + 5533760
+13  chromedriver                        0x0000000105087c87 chromedriver + 5393543
+14  chromedriver                        0x00000001050aaacb chromedriver + 5536459
+15  chromedriver                        0x0000000105076544 chromedriver + 5322052
+16  chromedriver                        0x00000001050c86e8 chromedriver + 5658344
+17  chromedriver                        0x00000001050c88af chromedriver + 5658799
+18  chromedriver                        0x00000001050da3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+, retrying in 2 seconds...
+2025-02-05 20:24:30,081 - INFO - Searching for registration: AD58 VNF
+2025-02-05 20:25:14,284 - ERROR - Search failed for AD58 VNF: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001050e2bc8 chromedriver + 5766088
+1   chromedriver                        0x00000001050da7ea chromedriver + 5732330
+2   chromedriver                        0x0000000104bc8680 chromedriver + 415360
+3   chromedriver                        0x0000000104c19d7d chromedriver + 748925
+4   chromedriver                        0x0000000104c19f21 chromedriver + 749345
+5   chromedriver                        0x0000000104c6a184 chromedriver + 1077636
+6   chromedriver                        0x0000000104c4007d chromedriver + 905341
+7   chromedriver                        0x0000000104c673e7 chromedriver + 1065959
+8   chromedriver                        0x0000000104c3fe23 chromedriver + 904739
+9   chromedriver                        0x0000000104c0bbea chromedriver + 691178
+10  chromedriver                        0x0000000104c0cd41 chromedriver + 695617
+11  chromedriver                        0x00000001050a6100 chromedriver + 5517568
+12  chromedriver                        0x00000001050aa040 chromedriver + 5533760
+13  chromedriver                        0x0000000105087c87 chromedriver + 5393543
+14  chromedriver                        0x00000001050aaacb chromedriver + 5536459
+15  chromedriver                        0x0000000105076544 chromedriver + 5322052
+16  chromedriver                        0x00000001050c86e8 chromedriver + 5658344
+17  chromedriver                        0x00000001050c88af chromedriver + 5658799
+18  chromedriver                        0x00000001050da3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:25:14,288 - ERROR - Validation error for AD58 VNF: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001050e2bc8 chromedriver + 5766088
+1   chromedriver                        0x00000001050da7ea chromedriver + 5732330
+2   chromedriver                        0x0000000104bc8680 chromedriver + 415360
+3   chromedriver                        0x0000000104c19d7d chromedriver + 748925
+4   chromedriver                        0x0000000104c19f21 chromedriver + 749345
+5   chromedriver                        0x0000000104c6a184 chromedriver + 1077636
+6   chromedriver                        0x0000000104c4007d chromedriver + 905341
+7   chromedriver                        0x0000000104c673e7 chromedriver + 1065959
+8   chromedriver                        0x0000000104c3fe23 chromedriver + 904739
+9   chromedriver                        0x0000000104c0bbea chromedriver + 691178
+10  chromedriver                        0x0000000104c0cd41 chromedriver + 695617
+11  chromedriver                        0x00000001050a6100 chromedriver + 5517568
+12  chromedriver                        0x00000001050aa040 chromedriver + 5533760
+13  chromedriver                        0x0000000105087c87 chromedriver + 5393543
+14  chromedriver                        0x00000001050aaacb chromedriver + 5536459
+15  chromedriver                        0x0000000105076544 chromedriver + 5322052
+16  chromedriver                        0x00000001050c86e8 chromedriver + 5658344
+17  chromedriver                        0x00000001050c88af chromedriver + 5658799
+18  chromedriver                        0x00000001050da3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:25:14,934 - INFO - Completed: AD58 VNF - Status: Error
+2025-02-05 20:25:14,934 - INFO - Searching for registration: BW57 BOW
+2025-02-05 20:25:50,258 - ERROR - Search failed for BW57 BOW: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001050e2bc8 chromedriver + 5766088
+1   chromedriver                        0x00000001050da7ea chromedriver + 5732330
+2   chromedriver                        0x0000000104bc8680 chromedriver + 415360
+3   chromedriver                        0x0000000104c19d7d chromedriver + 748925
+4   chromedriver                        0x0000000104c19f21 chromedriver + 749345
+5   chromedriver                        0x0000000104c6a184 chromedriver + 1077636
+6   chromedriver                        0x0000000104c4007d chromedriver + 905341
+7   chromedriver                        0x0000000104c673e7 chromedriver + 1065959
+8   chromedriver                        0x0000000104c3fe23 chromedriver + 904739
+9   chromedriver                        0x0000000104c0bbea chromedriver + 691178
+10  chromedriver                        0x0000000104c0cd41 chromedriver + 695617
+11  chromedriver                        0x00000001050a6100 chromedriver + 5517568
+12  chromedriver                        0x00000001050aa040 chromedriver + 5533760
+13  chromedriver                        0x0000000105087c87 chromedriver + 5393543
+14  chromedriver                        0x00000001050aaacb chromedriver + 5536459
+15  chromedriver                        0x0000000105076544 chromedriver + 5322052
+16  chromedriver                        0x00000001050c86e8 chromedriver + 5658344
+17  chromedriver                        0x00000001050c88af chromedriver + 5658799
+18  chromedriver                        0x00000001050da3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:25:50,260 - WARNING - Message: 
+Stacktrace:
+0   chromedriver                        0x00000001050e2bc8 chromedriver + 5766088
+1   chromedriver                        0x00000001050da7ea chromedriver + 5732330
+2   chromedriver                        0x0000000104bc8680 chromedriver + 415360
+3   chromedriver                        0x0000000104c19d7d chromedriver + 748925
+4   chromedriver                        0x0000000104c19f21 chromedriver + 749345
+5   chromedriver                        0x0000000104c6a184 chromedriver + 1077636
+6   chromedriver                        0x0000000104c4007d chromedriver + 905341
+7   chromedriver                        0x0000000104c673e7 chromedriver + 1065959
+8   chromedriver                        0x0000000104c3fe23 chromedriver + 904739
+9   chromedriver                        0x0000000104c0bbea chromedriver + 691178
+10  chromedriver                        0x0000000104c0cd41 chromedriver + 695617
+11  chromedriver                        0x00000001050a6100 chromedriver + 5517568
+12  chromedriver                        0x00000001050aa040 chromedriver + 5533760
+13  chromedriver                        0x0000000105087c87 chromedriver + 5393543
+14  chromedriver                        0x00000001050aaacb chromedriver + 5536459
+15  chromedriver                        0x0000000105076544 chromedriver + 5322052
+16  chromedriver                        0x00000001050c86e8 chromedriver + 5658344
+17  chromedriver                        0x00000001050c88af chromedriver + 5658799
+18  chromedriver                        0x00000001050da3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+, retrying in 2 seconds...
+2025-02-05 20:25:52,273 - INFO - Searching for registration: BW57 BOW
+2025-02-05 20:26:29,195 - ERROR - Search failed for BW57 BOW: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001050e2bc8 chromedriver + 5766088
+1   chromedriver                        0x00000001050da7ea chromedriver + 5732330
+2   chromedriver                        0x0000000104bc8680 chromedriver + 415360
+3   chromedriver                        0x0000000104c19d7d chromedriver + 748925
+4   chromedriver                        0x0000000104c19f21 chromedriver + 749345
+5   chromedriver                        0x0000000104c6a184 chromedriver + 1077636
+6   chromedriver                        0x0000000104c4007d chromedriver + 905341
+7   chromedriver                        0x0000000104c673e7 chromedriver + 1065959
+8   chromedriver                        0x0000000104c3fe23 chromedriver + 904739
+9   chromedriver                        0x0000000104c0bbea chromedriver + 691178
+10  chromedriver                        0x0000000104c0cd41 chromedriver + 695617
+11  chromedriver                        0x00000001050a6100 chromedriver + 5517568
+12  chromedriver                        0x00000001050aa040 chromedriver + 5533760
+13  chromedriver                        0x0000000105087c87 chromedriver + 5393543
+14  chromedriver                        0x00000001050aaacb chromedriver + 5536459
+15  chromedriver                        0x0000000105076544 chromedriver + 5322052
+16  chromedriver                        0x00000001050c86e8 chromedriver + 5658344
+17  chromedriver                        0x00000001050c88af chromedriver + 5658799
+18  chromedriver                        0x00000001050da3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:26:29,198 - ERROR - Validation error for BW57 BOW: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001050e2bc8 chromedriver + 5766088
+1   chromedriver                        0x00000001050da7ea chromedriver + 5732330
+2   chromedriver                        0x0000000104bc8680 chromedriver + 415360
+3   chromedriver                        0x0000000104c19d7d chromedriver + 748925
+4   chromedriver                        0x0000000104c19f21 chromedriver + 749345
+5   chromedriver                        0x0000000104c6a184 chromedriver + 1077636
+6   chromedriver                        0x0000000104c4007d chromedriver + 905341
+7   chromedriver                        0x0000000104c673e7 chromedriver + 1065959
+8   chromedriver                        0x0000000104c3fe23 chromedriver + 904739
+9   chromedriver                        0x0000000104c0bbea chromedriver + 691178
+10  chromedriver                        0x0000000104c0cd41 chromedriver + 695617
+11  chromedriver                        0x00000001050a6100 chromedriver + 5517568
+12  chromedriver                        0x00000001050aa040 chromedriver + 5533760
+13  chromedriver                        0x0000000105087c87 chromedriver + 5393543
+14  chromedriver                        0x00000001050aaacb chromedriver + 5536459
+15  chromedriver                        0x0000000105076544 chromedriver + 5322052
+16  chromedriver                        0x00000001050c86e8 chromedriver + 5658344
+17  chromedriver                        0x00000001050c88af chromedriver + 5658799
+18  chromedriver                        0x00000001050da3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:26:29,797 - INFO - Completed: BW57 BOW - Status: Error
+2025-02-05 20:26:29,797 - INFO - Searching for registration: SG18 HTN
+2025-02-05 20:27:06,884 - ERROR - Search failed for SG18 HTN: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001050e2bc8 chromedriver + 5766088
+1   chromedriver                        0x00000001050da7ea chromedriver + 5732330
+2   chromedriver                        0x0000000104bc8680 chromedriver + 415360
+3   chromedriver                        0x0000000104c19d7d chromedriver + 748925
+4   chromedriver                        0x0000000104c19f21 chromedriver + 749345
+5   chromedriver                        0x0000000104c6a184 chromedriver + 1077636
+6   chromedriver                        0x0000000104c4007d chromedriver + 905341
+7   chromedriver                        0x0000000104c673e7 chromedriver + 1065959
+8   chromedriver                        0x0000000104c3fe23 chromedriver + 904739
+9   chromedriver                        0x0000000104c0bbea chromedriver + 691178
+10  chromedriver                        0x0000000104c0cd41 chromedriver + 695617
+11  chromedriver                        0x00000001050a6100 chromedriver + 5517568
+12  chromedriver                        0x00000001050aa040 chromedriver + 5533760
+13  chromedriver                        0x0000000105087c87 chromedriver + 5393543
+14  chromedriver                        0x00000001050aaacb chromedriver + 5536459
+15  chromedriver                        0x0000000105076544 chromedriver + 5322052
+16  chromedriver                        0x00000001050c86e8 chromedriver + 5658344
+17  chromedriver                        0x00000001050c88af chromedriver + 5658799
+18  chromedriver                        0x00000001050da3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:27:06,888 - WARNING - Message: 
+Stacktrace:
+0   chromedriver                        0x00000001050e2bc8 chromedriver + 5766088
+1   chromedriver                        0x00000001050da7ea chromedriver + 5732330
+2   chromedriver                        0x0000000104bc8680 chromedriver + 415360
+3   chromedriver                        0x0000000104c19d7d chromedriver + 748925
+4   chromedriver                        0x0000000104c19f21 chromedriver + 749345
+5   chromedriver                        0x0000000104c6a184 chromedriver + 1077636
+6   chromedriver                        0x0000000104c4007d chromedriver + 905341
+7   chromedriver                        0x0000000104c673e7 chromedriver + 1065959
+8   chromedriver                        0x0000000104c3fe23 chromedriver + 904739
+9   chromedriver                        0x0000000104c0bbea chromedriver + 691178
+10  chromedriver                        0x0000000104c0cd41 chromedriver + 695617
+11  chromedriver                        0x00000001050a6100 chromedriver + 5517568
+12  chromedriver                        0x00000001050aa040 chromedriver + 5533760
+13  chromedriver                        0x0000000105087c87 chromedriver + 5393543
+14  chromedriver                        0x00000001050aaacb chromedriver + 5536459
+15  chromedriver                        0x0000000105076544 chromedriver + 5322052
+16  chromedriver                        0x00000001050c86e8 chromedriver + 5658344
+17  chromedriver                        0x00000001050c88af chromedriver + 5658799
+18  chromedriver                        0x00000001050da3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+, retrying in 2 seconds...
+2025-02-05 20:27:08,902 - INFO - Searching for registration: SG18 HTN
+2025-02-05 20:27:46,683 - ERROR - Search failed for SG18 HTN: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001050e2bc8 chromedriver + 5766088
+1   chromedriver                        0x00000001050da7ea chromedriver + 5732330
+2   chromedriver                        0x0000000104bc8680 chromedriver + 415360
+3   chromedriver                        0x0000000104c19d7d chromedriver + 748925
+4   chromedriver                        0x0000000104c19f21 chromedriver + 749345
+5   chromedriver                        0x0000000104c6a184 chromedriver + 1077636
+6   chromedriver                        0x0000000104c4007d chromedriver + 905341
+7   chromedriver                        0x0000000104c673e7 chromedriver + 1065959
+8   chromedriver                        0x0000000104c3fe23 chromedriver + 904739
+9   chromedriver                        0x0000000104c0bbea chromedriver + 691178
+10  chromedriver                        0x0000000104c0cd41 chromedriver + 695617
+11  chromedriver                        0x00000001050a6100 chromedriver + 5517568
+12  chromedriver                        0x00000001050aa040 chromedriver + 5533760
+13  chromedriver                        0x0000000105087c87 chromedriver + 5393543
+14  chromedriver                        0x00000001050aaacb chromedriver + 5536459
+15  chromedriver                        0x0000000105076544 chromedriver + 5322052
+16  chromedriver                        0x00000001050c86e8 chromedriver + 5658344
+17  chromedriver                        0x00000001050c88af chromedriver + 5658799
+18  chromedriver                        0x00000001050da3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:27:46,686 - ERROR - Validation error for SG18 HTN: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001050e2bc8 chromedriver + 5766088
+1   chromedriver                        0x00000001050da7ea chromedriver + 5732330
+2   chromedriver                        0x0000000104bc8680 chromedriver + 415360
+3   chromedriver                        0x0000000104c19d7d chromedriver + 748925
+4   chromedriver                        0x0000000104c19f21 chromedriver + 749345
+5   chromedriver                        0x0000000104c6a184 chromedriver + 1077636
+6   chromedriver                        0x0000000104c4007d chromedriver + 905341
+7   chromedriver                        0x0000000104c673e7 chromedriver + 1065959
+8   chromedriver                        0x0000000104c3fe23 chromedriver + 904739
+9   chromedriver                        0x0000000104c0bbea chromedriver + 691178
+10  chromedriver                        0x0000000104c0cd41 chromedriver + 695617
+11  chromedriver                        0x00000001050a6100 chromedriver + 5517568
+12  chromedriver                        0x00000001050aa040 chromedriver + 5533760
+13  chromedriver                        0x0000000105087c87 chromedriver + 5393543
+14  chromedriver                        0x00000001050aaacb chromedriver + 5536459
+15  chromedriver                        0x0000000105076544 chromedriver + 5322052
+16  chromedriver                        0x00000001050c86e8 chromedriver + 5658344
+17  chromedriver                        0x00000001050c88af chromedriver + 5658799
+18  chromedriver                        0x00000001050da3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:27:47,311 - INFO - Completed: SG18 HTN - Status: Error
+2025-02-05 20:33:23,147 - INFO - ====== WebDriver manager ======
+2025-02-05 20:33:23,720 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-05 20:33:23,808 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-05 20:33:23,867 - INFO - Driver [/Users/karthik/.wdm/drivers/chromedriver/mac64/133.0.6943.53/chromedriver-mac-x64/chromedriver] found in cache
+2025-02-05 20:33:30,559 - INFO - Searching for registration: AD58 VNF
+2025-02-05 20:34:53,445 - ERROR - Search failed for AD58 VNF: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101555bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010154d7ea chromedriver + 5732330
+2   chromedriver                        0x000000010103b680 chromedriver + 415360
+3   chromedriver                        0x000000010108cd7d chromedriver + 748925
+4   chromedriver                        0x000000010108cf21 chromedriver + 749345
+5   chromedriver                        0x00000001010dd184 chromedriver + 1077636
+6   chromedriver                        0x00000001010b307d chromedriver + 905341
+7   chromedriver                        0x00000001010da3e7 chromedriver + 1065959
+8   chromedriver                        0x00000001010b2e23 chromedriver + 904739
+9   chromedriver                        0x000000010107ebea chromedriver + 691178
+10  chromedriver                        0x000000010107fd41 chromedriver + 695617
+11  chromedriver                        0x0000000101519100 chromedriver + 5517568
+12  chromedriver                        0x000000010151d040 chromedriver + 5533760
+13  chromedriver                        0x00000001014fac87 chromedriver + 5393543
+14  chromedriver                        0x000000010151dacb chromedriver + 5536459
+15  chromedriver                        0x00000001014e9544 chromedriver + 5322052
+16  chromedriver                        0x000000010153b6e8 chromedriver + 5658344
+17  chromedriver                        0x000000010153b8af chromedriver + 5658799
+18  chromedriver                        0x000000010154d3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:34:53,449 - WARNING - Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101555bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010154d7ea chromedriver + 5732330
+2   chromedriver                        0x000000010103b680 chromedriver + 415360
+3   chromedriver                        0x000000010108cd7d chromedriver + 748925
+4   chromedriver                        0x000000010108cf21 chromedriver + 749345
+5   chromedriver                        0x00000001010dd184 chromedriver + 1077636
+6   chromedriver                        0x00000001010b307d chromedriver + 905341
+7   chromedriver                        0x00000001010da3e7 chromedriver + 1065959
+8   chromedriver                        0x00000001010b2e23 chromedriver + 904739
+9   chromedriver                        0x000000010107ebea chromedriver + 691178
+10  chromedriver                        0x000000010107fd41 chromedriver + 695617
+11  chromedriver                        0x0000000101519100 chromedriver + 5517568
+12  chromedriver                        0x000000010151d040 chromedriver + 5533760
+13  chromedriver                        0x00000001014fac87 chromedriver + 5393543
+14  chromedriver                        0x000000010151dacb chromedriver + 5536459
+15  chromedriver                        0x00000001014e9544 chromedriver + 5322052
+16  chromedriver                        0x000000010153b6e8 chromedriver + 5658344
+17  chromedriver                        0x000000010153b8af chromedriver + 5658799
+18  chromedriver                        0x000000010154d3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+, retrying in 2 seconds...
+2025-02-05 20:34:55,484 - INFO - Searching for registration: AD58 VNF
+2025-02-05 20:35:33,682 - ERROR - Search failed for AD58 VNF: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=133.0.6943.54)
+Stacktrace:
+0   chromedriver                        0x0000000101555bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010154d7ea chromedriver + 5732330
+2   chromedriver                        0x000000010103b680 chromedriver + 415360
+3   chromedriver                        0x0000000101021583 chromedriver + 308611
+4   chromedriver                        0x00000001010214fc chromedriver + 308476
+5   chromedriver                        0x000000010101fdbd chromedriver + 302525
+6   chromedriver                        0x0000000101020a3f chromedriver + 305727
+7   chromedriver                        0x000000010103fed5 chromedriver + 433877
+8   chromedriver                        0x00000001010408c2 chromedriver + 436418
+9   chromedriver                        0x0000000101044b83 chromedriver + 453507
+10  chromedriver                        0x0000000101044c33 chromedriver + 453683
+11  chromedriver                        0x000000010108c7a6 chromedriver + 747430
+12  chromedriver                        0x000000010108cf21 chromedriver + 749345
+13  chromedriver                        0x00000001010dd184 chromedriver + 1077636
+14  chromedriver                        0x00000001010b307d chromedriver + 905341
+15  chromedriver                        0x00000001010da3e7 chromedriver + 1065959
+16  chromedriver                        0x00000001010b2e23 chromedriver + 904739
+17  chromedriver                        0x000000010107ebea chromedriver + 691178
+18  chromedriver                        0x000000010107fd41 chromedriver + 695617
+19  chromedriver                        0x0000000101519100 chromedriver + 5517568
+20  chromedriver                        0x000000010151d040 chromedriver + 5533760
+21  chromedriver                        0x00000001014fac87 chromedriver + 5393543
+22  chromedriver                        0x000000010151dacb chromedriver + 5536459
+23  chromedriver                        0x00000001014e9544 chromedriver + 5322052
+24  chromedriver                        0x000000010153b6e8 chromedriver + 5658344
+25  chromedriver                        0x000000010153b8af chromedriver + 5658799
+26  chromedriver                        0x000000010154d3c8 chromedriver + 5731272
+27  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+28  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:35:33,712 - ERROR - Validation error for AD58 VNF: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=133.0.6943.54)
+Stacktrace:
+0   chromedriver                        0x0000000101555bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010154d7ea chromedriver + 5732330
+2   chromedriver                        0x000000010103b680 chromedriver + 415360
+3   chromedriver                        0x0000000101021583 chromedriver + 308611
+4   chromedriver                        0x00000001010214fc chromedriver + 308476
+5   chromedriver                        0x000000010101fdbd chromedriver + 302525
+6   chromedriver                        0x0000000101020a3f chromedriver + 305727
+7   chromedriver                        0x000000010103fed5 chromedriver + 433877
+8   chromedriver                        0x00000001010408c2 chromedriver + 436418
+9   chromedriver                        0x0000000101044b83 chromedriver + 453507
+10  chromedriver                        0x0000000101044c33 chromedriver + 453683
+11  chromedriver                        0x000000010108c7a6 chromedriver + 747430
+12  chromedriver                        0x000000010108cf21 chromedriver + 749345
+13  chromedriver                        0x00000001010dd184 chromedriver + 1077636
+14  chromedriver                        0x00000001010b307d chromedriver + 905341
+15  chromedriver                        0x00000001010da3e7 chromedriver + 1065959
+16  chromedriver                        0x00000001010b2e23 chromedriver + 904739
+17  chromedriver                        0x000000010107ebea chromedriver + 691178
+18  chromedriver                        0x000000010107fd41 chromedriver + 695617
+19  chromedriver                        0x0000000101519100 chromedriver + 5517568
+20  chromedriver                        0x000000010151d040 chromedriver + 5533760
+21  chromedriver                        0x00000001014fac87 chromedriver + 5393543
+22  chromedriver                        0x000000010151dacb chromedriver + 5536459
+23  chromedriver                        0x00000001014e9544 chromedriver + 5322052
+24  chromedriver                        0x000000010153b6e8 chromedriver + 5658344
+25  chromedriver                        0x000000010153b8af chromedriver + 5658799
+26  chromedriver                        0x000000010154d3c8 chromedriver + 5731272
+27  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+28  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:39:12,924 - INFO - ====== WebDriver manager ======
+2025-02-05 20:39:13,489 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-05 20:39:13,570 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-05 20:39:13,625 - INFO - Driver [/Users/karthik/.wdm/drivers/chromedriver/mac64/133.0.6943.53/chromedriver-mac-x64/chromedriver] found in cache
+2025-02-05 20:39:20,892 - INFO - Searching for registration: AD58 VNF
+2025-02-05 20:40:44,679 - ERROR - Search failed for AD58 VNF: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101156bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010114e7ea chromedriver + 5732330
+2   chromedriver                        0x0000000100c3c680 chromedriver + 415360
+3   chromedriver                        0x0000000100c8dd7d chromedriver + 748925
+4   chromedriver                        0x0000000100c8df21 chromedriver + 749345
+5   chromedriver                        0x0000000100cde184 chromedriver + 1077636
+6   chromedriver                        0x0000000100cb407d chromedriver + 905341
+7   chromedriver                        0x0000000100cdb3e7 chromedriver + 1065959
+8   chromedriver                        0x0000000100cb3e23 chromedriver + 904739
+9   chromedriver                        0x0000000100c7fbea chromedriver + 691178
+10  chromedriver                        0x0000000100c80d41 chromedriver + 695617
+11  chromedriver                        0x000000010111a100 chromedriver + 5517568
+12  chromedriver                        0x000000010111e040 chromedriver + 5533760
+13  chromedriver                        0x00000001010fbc87 chromedriver + 5393543
+14  chromedriver                        0x000000010111eacb chromedriver + 5536459
+15  chromedriver                        0x00000001010ea544 chromedriver + 5322052
+16  chromedriver                        0x000000010113c6e8 chromedriver + 5658344
+17  chromedriver                        0x000000010113c8af chromedriver + 5658799
+18  chromedriver                        0x000000010114e3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:40:44,683 - WARNING - Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101156bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010114e7ea chromedriver + 5732330
+2   chromedriver                        0x0000000100c3c680 chromedriver + 415360
+3   chromedriver                        0x0000000100c8dd7d chromedriver + 748925
+4   chromedriver                        0x0000000100c8df21 chromedriver + 749345
+5   chromedriver                        0x0000000100cde184 chromedriver + 1077636
+6   chromedriver                        0x0000000100cb407d chromedriver + 905341
+7   chromedriver                        0x0000000100cdb3e7 chromedriver + 1065959
+8   chromedriver                        0x0000000100cb3e23 chromedriver + 904739
+9   chromedriver                        0x0000000100c7fbea chromedriver + 691178
+10  chromedriver                        0x0000000100c80d41 chromedriver + 695617
+11  chromedriver                        0x000000010111a100 chromedriver + 5517568
+12  chromedriver                        0x000000010111e040 chromedriver + 5533760
+13  chromedriver                        0x00000001010fbc87 chromedriver + 5393543
+14  chromedriver                        0x000000010111eacb chromedriver + 5536459
+15  chromedriver                        0x00000001010ea544 chromedriver + 5322052
+16  chromedriver                        0x000000010113c6e8 chromedriver + 5658344
+17  chromedriver                        0x000000010113c8af chromedriver + 5658799
+18  chromedriver                        0x000000010114e3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+, retrying in 2 seconds...
+2025-02-05 20:40:46,698 - INFO - Searching for registration: AD58 VNF
+2025-02-05 20:41:36,516 - ERROR - Search failed for AD58 VNF: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101156bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010114e7ea chromedriver + 5732330
+2   chromedriver                        0x0000000100c3c680 chromedriver + 415360
+3   chromedriver                        0x0000000100c8dd7d chromedriver + 748925
+4   chromedriver                        0x0000000100c8df21 chromedriver + 749345
+5   chromedriver                        0x0000000100cde184 chromedriver + 1077636
+6   chromedriver                        0x0000000100cb407d chromedriver + 905341
+7   chromedriver                        0x0000000100cdb3e7 chromedriver + 1065959
+8   chromedriver                        0x0000000100cb3e23 chromedriver + 904739
+9   chromedriver                        0x0000000100c7fbea chromedriver + 691178
+10  chromedriver                        0x0000000100c80d41 chromedriver + 695617
+11  chromedriver                        0x000000010111a100 chromedriver + 5517568
+12  chromedriver                        0x000000010111e040 chromedriver + 5533760
+13  chromedriver                        0x00000001010fbc87 chromedriver + 5393543
+14  chromedriver                        0x000000010111eacb chromedriver + 5536459
+15  chromedriver                        0x00000001010ea544 chromedriver + 5322052
+16  chromedriver                        0x000000010113c6e8 chromedriver + 5658344
+17  chromedriver                        0x000000010113c8af chromedriver + 5658799
+18  chromedriver                        0x000000010114e3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:41:36,520 - ERROR - Validation error for AD58 VNF: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101156bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010114e7ea chromedriver + 5732330
+2   chromedriver                        0x0000000100c3c680 chromedriver + 415360
+3   chromedriver                        0x0000000100c8dd7d chromedriver + 748925
+4   chromedriver                        0x0000000100c8df21 chromedriver + 749345
+5   chromedriver                        0x0000000100cde184 chromedriver + 1077636
+6   chromedriver                        0x0000000100cb407d chromedriver + 905341
+7   chromedriver                        0x0000000100cdb3e7 chromedriver + 1065959
+8   chromedriver                        0x0000000100cb3e23 chromedriver + 904739
+9   chromedriver                        0x0000000100c7fbea chromedriver + 691178
+10  chromedriver                        0x0000000100c80d41 chromedriver + 695617
+11  chromedriver                        0x000000010111a100 chromedriver + 5517568
+12  chromedriver                        0x000000010111e040 chromedriver + 5533760
+13  chromedriver                        0x00000001010fbc87 chromedriver + 5393543
+14  chromedriver                        0x000000010111eacb chromedriver + 5536459
+15  chromedriver                        0x00000001010ea544 chromedriver + 5322052
+16  chromedriver                        0x000000010113c6e8 chromedriver + 5658344
+17  chromedriver                        0x000000010113c8af chromedriver + 5658799
+18  chromedriver                        0x000000010114e3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:41:37,177 - INFO - Screenshot saved: error_AD58_VNF.png
+2025-02-05 20:41:37,177 - INFO - Completed: AD58 VNF - Status: Error
+2025-02-05 20:41:37,177 - INFO - Searching for registration: BW57 BOW
+2025-02-05 20:42:18,710 - ERROR - Search failed for BW57 BOW: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101156bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010114e7ea chromedriver + 5732330
+2   chromedriver                        0x0000000100c3c680 chromedriver + 415360
+3   chromedriver                        0x0000000100c8dd7d chromedriver + 748925
+4   chromedriver                        0x0000000100c8df21 chromedriver + 749345
+5   chromedriver                        0x0000000100cde184 chromedriver + 1077636
+6   chromedriver                        0x0000000100cb407d chromedriver + 905341
+7   chromedriver                        0x0000000100cdb3e7 chromedriver + 1065959
+8   chromedriver                        0x0000000100cb3e23 chromedriver + 904739
+9   chromedriver                        0x0000000100c7fbea chromedriver + 691178
+10  chromedriver                        0x0000000100c80d41 chromedriver + 695617
+11  chromedriver                        0x000000010111a100 chromedriver + 5517568
+12  chromedriver                        0x000000010111e040 chromedriver + 5533760
+13  chromedriver                        0x00000001010fbc87 chromedriver + 5393543
+14  chromedriver                        0x000000010111eacb chromedriver + 5536459
+15  chromedriver                        0x00000001010ea544 chromedriver + 5322052
+16  chromedriver                        0x000000010113c6e8 chromedriver + 5658344
+17  chromedriver                        0x000000010113c8af chromedriver + 5658799
+18  chromedriver                        0x000000010114e3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:42:18,714 - WARNING - Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101156bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010114e7ea chromedriver + 5732330
+2   chromedriver                        0x0000000100c3c680 chromedriver + 415360
+3   chromedriver                        0x0000000100c8dd7d chromedriver + 748925
+4   chromedriver                        0x0000000100c8df21 chromedriver + 749345
+5   chromedriver                        0x0000000100cde184 chromedriver + 1077636
+6   chromedriver                        0x0000000100cb407d chromedriver + 905341
+7   chromedriver                        0x0000000100cdb3e7 chromedriver + 1065959
+8   chromedriver                        0x0000000100cb3e23 chromedriver + 904739
+9   chromedriver                        0x0000000100c7fbea chromedriver + 691178
+10  chromedriver                        0x0000000100c80d41 chromedriver + 695617
+11  chromedriver                        0x000000010111a100 chromedriver + 5517568
+12  chromedriver                        0x000000010111e040 chromedriver + 5533760
+13  chromedriver                        0x00000001010fbc87 chromedriver + 5393543
+14  chromedriver                        0x000000010111eacb chromedriver + 5536459
+15  chromedriver                        0x00000001010ea544 chromedriver + 5322052
+16  chromedriver                        0x000000010113c6e8 chromedriver + 5658344
+17  chromedriver                        0x000000010113c8af chromedriver + 5658799
+18  chromedriver                        0x000000010114e3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+, retrying in 2 seconds...
+2025-02-05 20:42:20,726 - INFO - Searching for registration: BW57 BOW
+2025-02-05 20:43:13,799 - ERROR - Search failed for BW57 BOW: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101156bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010114e7ea chromedriver + 5732330
+2   chromedriver                        0x0000000100c3c680 chromedriver + 415360
+3   chromedriver                        0x0000000100c8dd7d chromedriver + 748925
+4   chromedriver                        0x0000000100c8df21 chromedriver + 749345
+5   chromedriver                        0x0000000100cde184 chromedriver + 1077636
+6   chromedriver                        0x0000000100cb407d chromedriver + 905341
+7   chromedriver                        0x0000000100cdb3e7 chromedriver + 1065959
+8   chromedriver                        0x0000000100cb3e23 chromedriver + 904739
+9   chromedriver                        0x0000000100c7fbea chromedriver + 691178
+10  chromedriver                        0x0000000100c80d41 chromedriver + 695617
+11  chromedriver                        0x000000010111a100 chromedriver + 5517568
+12  chromedriver                        0x000000010111e040 chromedriver + 5533760
+13  chromedriver                        0x00000001010fbc87 chromedriver + 5393543
+14  chromedriver                        0x000000010111eacb chromedriver + 5536459
+15  chromedriver                        0x00000001010ea544 chromedriver + 5322052
+16  chromedriver                        0x000000010113c6e8 chromedriver + 5658344
+17  chromedriver                        0x000000010113c8af chromedriver + 5658799
+18  chromedriver                        0x000000010114e3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:43:13,803 - ERROR - Validation error for BW57 BOW: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101156bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010114e7ea chromedriver + 5732330
+2   chromedriver                        0x0000000100c3c680 chromedriver + 415360
+3   chromedriver                        0x0000000100c8dd7d chromedriver + 748925
+4   chromedriver                        0x0000000100c8df21 chromedriver + 749345
+5   chromedriver                        0x0000000100cde184 chromedriver + 1077636
+6   chromedriver                        0x0000000100cb407d chromedriver + 905341
+7   chromedriver                        0x0000000100cdb3e7 chromedriver + 1065959
+8   chromedriver                        0x0000000100cb3e23 chromedriver + 904739
+9   chromedriver                        0x0000000100c7fbea chromedriver + 691178
+10  chromedriver                        0x0000000100c80d41 chromedriver + 695617
+11  chromedriver                        0x000000010111a100 chromedriver + 5517568
+12  chromedriver                        0x000000010111e040 chromedriver + 5533760
+13  chromedriver                        0x00000001010fbc87 chromedriver + 5393543
+14  chromedriver                        0x000000010111eacb chromedriver + 5536459
+15  chromedriver                        0x00000001010ea544 chromedriver + 5322052
+16  chromedriver                        0x000000010113c6e8 chromedriver + 5658344
+17  chromedriver                        0x000000010113c8af chromedriver + 5658799
+18  chromedriver                        0x000000010114e3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:43:14,415 - INFO - Screenshot saved: error_BW57_BOW.png
+2025-02-05 20:43:14,415 - INFO - Completed: BW57 BOW - Status: Error
+2025-02-05 20:43:14,415 - INFO - Searching for registration: SG18 HTN
+2025-02-05 20:43:55,800 - ERROR - Search failed for SG18 HTN: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101156bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010114e7ea chromedriver + 5732330
+2   chromedriver                        0x0000000100c3c680 chromedriver + 415360
+3   chromedriver                        0x0000000100c8dd7d chromedriver + 748925
+4   chromedriver                        0x0000000100c8df21 chromedriver + 749345
+5   chromedriver                        0x0000000100cde184 chromedriver + 1077636
+6   chromedriver                        0x0000000100cb407d chromedriver + 905341
+7   chromedriver                        0x0000000100cdb3e7 chromedriver + 1065959
+8   chromedriver                        0x0000000100cb3e23 chromedriver + 904739
+9   chromedriver                        0x0000000100c7fbea chromedriver + 691178
+10  chromedriver                        0x0000000100c80d41 chromedriver + 695617
+11  chromedriver                        0x000000010111a100 chromedriver + 5517568
+12  chromedriver                        0x000000010111e040 chromedriver + 5533760
+13  chromedriver                        0x00000001010fbc87 chromedriver + 5393543
+14  chromedriver                        0x000000010111eacb chromedriver + 5536459
+15  chromedriver                        0x00000001010ea544 chromedriver + 5322052
+16  chromedriver                        0x000000010113c6e8 chromedriver + 5658344
+17  chromedriver                        0x000000010113c8af chromedriver + 5658799
+18  chromedriver                        0x000000010114e3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:43:55,803 - WARNING - Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101156bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010114e7ea chromedriver + 5732330
+2   chromedriver                        0x0000000100c3c680 chromedriver + 415360
+3   chromedriver                        0x0000000100c8dd7d chromedriver + 748925
+4   chromedriver                        0x0000000100c8df21 chromedriver + 749345
+5   chromedriver                        0x0000000100cde184 chromedriver + 1077636
+6   chromedriver                        0x0000000100cb407d chromedriver + 905341
+7   chromedriver                        0x0000000100cdb3e7 chromedriver + 1065959
+8   chromedriver                        0x0000000100cb3e23 chromedriver + 904739
+9   chromedriver                        0x0000000100c7fbea chromedriver + 691178
+10  chromedriver                        0x0000000100c80d41 chromedriver + 695617
+11  chromedriver                        0x000000010111a100 chromedriver + 5517568
+12  chromedriver                        0x000000010111e040 chromedriver + 5533760
+13  chromedriver                        0x00000001010fbc87 chromedriver + 5393543
+14  chromedriver                        0x000000010111eacb chromedriver + 5536459
+15  chromedriver                        0x00000001010ea544 chromedriver + 5322052
+16  chromedriver                        0x000000010113c6e8 chromedriver + 5658344
+17  chromedriver                        0x000000010113c8af chromedriver + 5658799
+18  chromedriver                        0x000000010114e3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+, retrying in 2 seconds...
+2025-02-05 20:43:57,818 - INFO - Searching for registration: SG18 HTN
+2025-02-05 20:44:38,069 - ERROR - Search failed for SG18 HTN: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101156bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010114e7ea chromedriver + 5732330
+2   chromedriver                        0x0000000100c3c680 chromedriver + 415360
+3   chromedriver                        0x0000000100c8dd7d chromedriver + 748925
+4   chromedriver                        0x0000000100c8df21 chromedriver + 749345
+5   chromedriver                        0x0000000100cde184 chromedriver + 1077636
+6   chromedriver                        0x0000000100cb407d chromedriver + 905341
+7   chromedriver                        0x0000000100cdb3e7 chromedriver + 1065959
+8   chromedriver                        0x0000000100cb3e23 chromedriver + 904739
+9   chromedriver                        0x0000000100c7fbea chromedriver + 691178
+10  chromedriver                        0x0000000100c80d41 chromedriver + 695617
+11  chromedriver                        0x000000010111a100 chromedriver + 5517568
+12  chromedriver                        0x000000010111e040 chromedriver + 5533760
+13  chromedriver                        0x00000001010fbc87 chromedriver + 5393543
+14  chromedriver                        0x000000010111eacb chromedriver + 5536459
+15  chromedriver                        0x00000001010ea544 chromedriver + 5322052
+16  chromedriver                        0x000000010113c6e8 chromedriver + 5658344
+17  chromedriver                        0x000000010113c8af chromedriver + 5658799
+18  chromedriver                        0x000000010114e3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:44:38,070 - ERROR - Validation error for SG18 HTN: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000101156bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010114e7ea chromedriver + 5732330
+2   chromedriver                        0x0000000100c3c680 chromedriver + 415360
+3   chromedriver                        0x0000000100c8dd7d chromedriver + 748925
+4   chromedriver                        0x0000000100c8df21 chromedriver + 749345
+5   chromedriver                        0x0000000100cde184 chromedriver + 1077636
+6   chromedriver                        0x0000000100cb407d chromedriver + 905341
+7   chromedriver                        0x0000000100cdb3e7 chromedriver + 1065959
+8   chromedriver                        0x0000000100cb3e23 chromedriver + 904739
+9   chromedriver                        0x0000000100c7fbea chromedriver + 691178
+10  chromedriver                        0x0000000100c80d41 chromedriver + 695617
+11  chromedriver                        0x000000010111a100 chromedriver + 5517568
+12  chromedriver                        0x000000010111e040 chromedriver + 5533760
+13  chromedriver                        0x00000001010fbc87 chromedriver + 5393543
+14  chromedriver                        0x000000010111eacb chromedriver + 5536459
+15  chromedriver                        0x00000001010ea544 chromedriver + 5322052
+16  chromedriver                        0x000000010113c6e8 chromedriver + 5658344
+17  chromedriver                        0x000000010113c8af chromedriver + 5658799
+18  chromedriver                        0x000000010114e3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:44:38,838 - INFO - Screenshot saved: error_SG18_HTN.png
+2025-02-05 20:44:38,838 - INFO - Completed: SG18 HTN - Status: Error
+2025-02-05 20:44:38,963 - INFO - HTML report generated: report.html
+2025-02-05 20:44:38,967 - INFO - Test execution completed
+2025-02-05 20:48:38,062 - INFO - ====== WebDriver manager ======
+2025-02-05 20:48:38,668 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-05 20:48:38,731 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-05 20:48:38,778 - INFO - Driver [/Users/karthik/.wdm/drivers/chromedriver/mac64/133.0.6943.53/chromedriver-mac-x64/chromedriver] found in cache
+2025-02-05 20:49:20,845 - ERROR - Validation error on motorway: 'action'
+2025-02-05 20:49:24,662 - INFO - Completed motorway - AD58 VNF: Error
+2025-02-05 20:49:40,942 - ERROR - Validation error on motorway: 'action'
+2025-02-05 20:49:42,022 - INFO - Completed motorway - BW57 BOW: Error
+2025-02-05 20:49:47,469 - ERROR - Validation error on motorway: 'action'
+2025-02-05 20:49:48,473 - INFO - Completed motorway - SG18 HTN: Error
+2025-02-05 20:50:20,119 - ERROR - Search failed on https://www.autotrader.co.uk/: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102d74bc8 chromedriver + 5766088
+1   chromedriver                        0x0000000102d6c7ea chromedriver + 5732330
+2   chromedriver                        0x000000010285a680 chromedriver + 415360
+3   chromedriver                        0x00000001028abd7d chromedriver + 748925
+4   chromedriver                        0x00000001028abf21 chromedriver + 749345
+5   chromedriver                        0x00000001028fc184 chromedriver + 1077636
+6   chromedriver                        0x00000001028d207d chromedriver + 905341
+7   chromedriver                        0x00000001028f93e7 chromedriver + 1065959
+8   chromedriver                        0x00000001028d1e23 chromedriver + 904739
+9   chromedriver                        0x000000010289dbea chromedriver + 691178
+10  chromedriver                        0x000000010289ed41 chromedriver + 695617
+11  chromedriver                        0x0000000102d38100 chromedriver + 5517568
+12  chromedriver                        0x0000000102d3c040 chromedriver + 5533760
+13  chromedriver                        0x0000000102d19c87 chromedriver + 5393543
+14  chromedriver                        0x0000000102d3cacb chromedriver + 5536459
+15  chromedriver                        0x0000000102d08544 chromedriver + 5322052
+16  chromedriver                        0x0000000102d5a6e8 chromedriver + 5658344
+17  chromedriver                        0x0000000102d5a8af chromedriver + 5658799
+18  chromedriver                        0x0000000102d6c3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:50:20,123 - INFO - Completed autotrader - AD58 VNF: Search Failed
+2025-02-05 20:50:51,337 - ERROR - Search failed on https://www.autotrader.co.uk/: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102d74bc8 chromedriver + 5766088
+1   chromedriver                        0x0000000102d6c7ea chromedriver + 5732330
+2   chromedriver                        0x000000010285a680 chromedriver + 415360
+3   chromedriver                        0x00000001028abd7d chromedriver + 748925
+4   chromedriver                        0x00000001028abf21 chromedriver + 749345
+5   chromedriver                        0x00000001028fc184 chromedriver + 1077636
+6   chromedriver                        0x00000001028d207d chromedriver + 905341
+7   chromedriver                        0x00000001028f93e7 chromedriver + 1065959
+8   chromedriver                        0x00000001028d1e23 chromedriver + 904739
+9   chromedriver                        0x000000010289dbea chromedriver + 691178
+10  chromedriver                        0x000000010289ed41 chromedriver + 695617
+11  chromedriver                        0x0000000102d38100 chromedriver + 5517568
+12  chromedriver                        0x0000000102d3c040 chromedriver + 5533760
+13  chromedriver                        0x0000000102d19c87 chromedriver + 5393543
+14  chromedriver                        0x0000000102d3cacb chromedriver + 5536459
+15  chromedriver                        0x0000000102d08544 chromedriver + 5322052
+16  chromedriver                        0x0000000102d5a6e8 chromedriver + 5658344
+17  chromedriver                        0x0000000102d5a8af chromedriver + 5658799
+18  chromedriver                        0x0000000102d6c3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:50:51,338 - INFO - Completed autotrader - BW57 BOW: Search Failed
+2025-02-05 20:51:22,628 - ERROR - Search failed on https://www.autotrader.co.uk/: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102d74bc8 chromedriver + 5766088
+1   chromedriver                        0x0000000102d6c7ea chromedriver + 5732330
+2   chromedriver                        0x000000010285a680 chromedriver + 415360
+3   chromedriver                        0x00000001028abd7d chromedriver + 748925
+4   chromedriver                        0x00000001028abf21 chromedriver + 749345
+5   chromedriver                        0x00000001028fc184 chromedriver + 1077636
+6   chromedriver                        0x00000001028d207d chromedriver + 905341
+7   chromedriver                        0x00000001028f93e7 chromedriver + 1065959
+8   chromedriver                        0x00000001028d1e23 chromedriver + 904739
+9   chromedriver                        0x000000010289dbea chromedriver + 691178
+10  chromedriver                        0x000000010289ed41 chromedriver + 695617
+11  chromedriver                        0x0000000102d38100 chromedriver + 5517568
+12  chromedriver                        0x0000000102d3c040 chromedriver + 5533760
+13  chromedriver                        0x0000000102d19c87 chromedriver + 5393543
+14  chromedriver                        0x0000000102d3cacb chromedriver + 5536459
+15  chromedriver                        0x0000000102d08544 chromedriver + 5322052
+16  chromedriver                        0x0000000102d5a6e8 chromedriver + 5658344
+17  chromedriver                        0x0000000102d5a8af chromedriver + 5658799
+18  chromedriver                        0x0000000102d6c3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:51:22,628 - INFO - Completed autotrader - SG18 HTN: Search Failed
+2025-02-05 20:51:57,746 - ERROR - Search failed on https://www.confused.com/car-insurance/your-car: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102d74bc8 chromedriver + 5766088
+1   chromedriver                        0x0000000102d6c7ea chromedriver + 5732330
+2   chromedriver                        0x000000010285a680 chromedriver + 415360
+3   chromedriver                        0x00000001028abd7d chromedriver + 748925
+4   chromedriver                        0x00000001028abf21 chromedriver + 749345
+5   chromedriver                        0x00000001028fc184 chromedriver + 1077636
+6   chromedriver                        0x00000001028d207d chromedriver + 905341
+7   chromedriver                        0x00000001028f93e7 chromedriver + 1065959
+8   chromedriver                        0x00000001028d1e23 chromedriver + 904739
+9   chromedriver                        0x000000010289dbea chromedriver + 691178
+10  chromedriver                        0x000000010289ed41 chromedriver + 695617
+11  chromedriver                        0x0000000102d38100 chromedriver + 5517568
+12  chromedriver                        0x0000000102d3c040 chromedriver + 5533760
+13  chromedriver                        0x0000000102d19c87 chromedriver + 5393543
+14  chromedriver                        0x0000000102d3cacb chromedriver + 5536459
+15  chromedriver                        0x0000000102d08544 chromedriver + 5322052
+16  chromedriver                        0x0000000102d5a6e8 chromedriver + 5658344
+17  chromedriver                        0x0000000102d5a8af chromedriver + 5658799
+18  chromedriver                        0x0000000102d6c3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:51:57,748 - INFO - Completed confused - AD58 VNF: Search Failed
+2025-02-05 20:51:58,711 - ERROR - Search failed on https://www.confused.com/car-insurance/your-car: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=133.0.6943.54)
+Stacktrace:
+0   chromedriver                        0x0000000102d74bc8 chromedriver + 5766088
+1   chromedriver                        0x0000000102d6c7ea chromedriver + 5732330
+2   chromedriver                        0x000000010285a680 chromedriver + 415360
+3   chromedriver                        0x0000000102841555 chromedriver + 312661
+4   chromedriver                        0x0000000102841284 chromedriver + 311940
+5   chromedriver                        0x000000010283f010 chromedriver + 303120
+6   chromedriver                        0x000000010283fa3f chromedriver + 305727
+7   chromedriver                        0x000000010284f43b chromedriver + 369723
+8   chromedriver                        0x0000000102868839 chromedriver + 473145
+9   chromedriver                        0x000000010286ee8b chromedriver + 499339
+10  chromedriver                        0x00000001028400fb chromedriver + 307451
+11  chromedriver                        0x000000010286841a chromedriver + 472090
+12  chromedriver                        0x00000001028f9726 chromedriver + 1066790
+13  chromedriver                        0x00000001028d1e23 chromedriver + 904739
+14  chromedriver                        0x000000010289dbea chromedriver + 691178
+15  chromedriver                        0x000000010289ed41 chromedriver + 695617
+16  chromedriver                        0x0000000102d38100 chromedriver + 5517568
+17  chromedriver                        0x0000000102d3c040 chromedriver + 5533760
+18  chromedriver                        0x0000000102d19c87 chromedriver + 5393543
+19  chromedriver                        0x0000000102d3cacb chromedriver + 5536459
+20  chromedriver                        0x0000000102d08544 chromedriver + 5322052
+21  chromedriver                        0x0000000102d5a6e8 chromedriver + 5658344
+22  chromedriver                        0x0000000102d5a8af chromedriver + 5658799
+23  chromedriver                        0x0000000102d6c3c8 chromedriver + 5731272
+24  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+25  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-05 20:51:58,718 - INFO - Completed confused - BW57 BOW: Search Failed
+2025-02-05 20:51:58,773 - ERROR - Search failed on https://www.confused.com/car-insurance/your-car: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x0000000102d74bc8 chromedriver + 5766088
+1   chromedriver                        0x0000000102d6c7ea chromedriver + 5732330
+2   chromedriver                        0x000000010285a4c3 chromedriver + 414915
+3   chromedriver                        0x000000010289cedf chromedriver + 687839
+4   chromedriver                        0x00000001028d1f56 chromedriver + 905046
+5   chromedriver                        0x00000001028cc8b8 chromedriver + 882872
+6   chromedriver                        0x00000001028cba47 chromedriver + 879175
+7   chromedriver                        0x00000001028232bf chromedriver + 189119
+8   chromedriver                        0x0000000102d38100 chromedriver + 5517568
+9   chromedriver                        0x0000000102d3c040 chromedriver + 5533760
+10  chromedriver                        0x0000000102d19c87 chromedriver + 5393543
+11  chromedriver                        0x0000000102d3cacb chromedriver + 5536459
+12  chromedriver                        0x0000000102d08544 chromedriver + 5322052
+13  chromedriver                        0x0000000102821bbe chromedriver + 183230
+14  dyld                                0x00000002039482cd start + 1805
+
+2025-02-05 20:51:58,774 - INFO - Completed confused - SG18 HTN: Search Failed
+2025-02-05 20:51:58,786 - INFO - HTML report generated: report.html
+2025-02-05 20:51:58,789 - INFO - Test execution completed
+2025-02-06 09:42:03,375 - INFO - ====== WebDriver manager ======
+2025-02-06 09:42:03,991 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 09:42:04,066 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 09:42:04,146 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 09:42:04,265 - INFO - WebDriver version 133.0.6943.53 selected
+2025-02-06 09:42:04,266 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.53/mac-x64/chromedriver-mac-x64.zip
+2025-02-06 09:42:04,266 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.53/mac-x64/chromedriver-mac-x64.zip
+2025-02-06 09:42:04,342 - INFO - Driver downloading response is 200
+2025-02-06 09:42:04,568 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-06 09:42:04,710 - INFO - Driver has been saved in cache [/Users/karthik/.wdm/drivers/chromedriver/mac64/133.0.6943.53]
+2025-02-06 09:43:05,753 - ERROR - Validation error on motorway: 'action'
+2025-02-06 09:43:12,255 - INFO - Completed motorway - AD58 VNF: Error
+2025-02-06 09:43:37,658 - ERROR - Validation error on motorway: 'action'
+2025-02-06 09:43:39,093 - INFO - Completed motorway - BW57 BOW: Error
+2025-02-06 09:43:50,029 - ERROR - Validation error on motorway: 'action'
+2025-02-06 09:43:54,163 - INFO - Completed motorway - SG18 HTN: Error
+2025-02-06 09:44:25,806 - ERROR - Search failed on https://www.autotrader.co.uk/: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105242bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010523a7ea chromedriver + 5732330
+2   chromedriver                        0x0000000104d28680 chromedriver + 415360
+3   chromedriver                        0x0000000104d79d7d chromedriver + 748925
+4   chromedriver                        0x0000000104d79f21 chromedriver + 749345
+5   chromedriver                        0x0000000104dca184 chromedriver + 1077636
+6   chromedriver                        0x0000000104da007d chromedriver + 905341
+7   chromedriver                        0x0000000104dc73e7 chromedriver + 1065959
+8   chromedriver                        0x0000000104d9fe23 chromedriver + 904739
+9   chromedriver                        0x0000000104d6bbea chromedriver + 691178
+10  chromedriver                        0x0000000104d6cd41 chromedriver + 695617
+11  chromedriver                        0x0000000105206100 chromedriver + 5517568
+12  chromedriver                        0x000000010520a040 chromedriver + 5533760
+13  chromedriver                        0x00000001051e7c87 chromedriver + 5393543
+14  chromedriver                        0x000000010520aacb chromedriver + 5536459
+15  chromedriver                        0x00000001051d6544 chromedriver + 5322052
+16  chromedriver                        0x00000001052286e8 chromedriver + 5658344
+17  chromedriver                        0x00000001052288af chromedriver + 5658799
+18  chromedriver                        0x000000010523a3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-06 09:44:25,806 - INFO - Completed autotrader - AD58 VNF: Search Failed
+2025-02-06 09:44:57,009 - ERROR - Search failed on https://www.autotrader.co.uk/: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105242bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010523a7ea chromedriver + 5732330
+2   chromedriver                        0x0000000104d28680 chromedriver + 415360
+3   chromedriver                        0x0000000104d79d7d chromedriver + 748925
+4   chromedriver                        0x0000000104d79f21 chromedriver + 749345
+5   chromedriver                        0x0000000104dca184 chromedriver + 1077636
+6   chromedriver                        0x0000000104da007d chromedriver + 905341
+7   chromedriver                        0x0000000104dc73e7 chromedriver + 1065959
+8   chromedriver                        0x0000000104d9fe23 chromedriver + 904739
+9   chromedriver                        0x0000000104d6bbea chromedriver + 691178
+10  chromedriver                        0x0000000104d6cd41 chromedriver + 695617
+11  chromedriver                        0x0000000105206100 chromedriver + 5517568
+12  chromedriver                        0x000000010520a040 chromedriver + 5533760
+13  chromedriver                        0x00000001051e7c87 chromedriver + 5393543
+14  chromedriver                        0x000000010520aacb chromedriver + 5536459
+15  chromedriver                        0x00000001051d6544 chromedriver + 5322052
+16  chromedriver                        0x00000001052286e8 chromedriver + 5658344
+17  chromedriver                        0x00000001052288af chromedriver + 5658799
+18  chromedriver                        0x000000010523a3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-06 09:44:57,010 - INFO - Completed autotrader - BW57 BOW: Search Failed
+2025-02-06 09:45:28,236 - ERROR - Search failed on https://www.autotrader.co.uk/: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105242bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010523a7ea chromedriver + 5732330
+2   chromedriver                        0x0000000104d28680 chromedriver + 415360
+3   chromedriver                        0x0000000104d79d7d chromedriver + 748925
+4   chromedriver                        0x0000000104d79f21 chromedriver + 749345
+5   chromedriver                        0x0000000104dca184 chromedriver + 1077636
+6   chromedriver                        0x0000000104da007d chromedriver + 905341
+7   chromedriver                        0x0000000104dc73e7 chromedriver + 1065959
+8   chromedriver                        0x0000000104d9fe23 chromedriver + 904739
+9   chromedriver                        0x0000000104d6bbea chromedriver + 691178
+10  chromedriver                        0x0000000104d6cd41 chromedriver + 695617
+11  chromedriver                        0x0000000105206100 chromedriver + 5517568
+12  chromedriver                        0x000000010520a040 chromedriver + 5533760
+13  chromedriver                        0x00000001051e7c87 chromedriver + 5393543
+14  chromedriver                        0x000000010520aacb chromedriver + 5536459
+15  chromedriver                        0x00000001051d6544 chromedriver + 5322052
+16  chromedriver                        0x00000001052286e8 chromedriver + 5658344
+17  chromedriver                        0x00000001052288af chromedriver + 5658799
+18  chromedriver                        0x000000010523a3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-06 09:45:28,237 - INFO - Completed autotrader - SG18 HTN: Search Failed
+2025-02-06 09:46:04,325 - ERROR - Search failed on https://www.confused.com/car-insurance/your-car: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105242bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010523a7ea chromedriver + 5732330
+2   chromedriver                        0x0000000104d28680 chromedriver + 415360
+3   chromedriver                        0x0000000104d79d7d chromedriver + 748925
+4   chromedriver                        0x0000000104d79f21 chromedriver + 749345
+5   chromedriver                        0x0000000104dca184 chromedriver + 1077636
+6   chromedriver                        0x0000000104da007d chromedriver + 905341
+7   chromedriver                        0x0000000104dc73e7 chromedriver + 1065959
+8   chromedriver                        0x0000000104d9fe23 chromedriver + 904739
+9   chromedriver                        0x0000000104d6bbea chromedriver + 691178
+10  chromedriver                        0x0000000104d6cd41 chromedriver + 695617
+11  chromedriver                        0x0000000105206100 chromedriver + 5517568
+12  chromedriver                        0x000000010520a040 chromedriver + 5533760
+13  chromedriver                        0x00000001051e7c87 chromedriver + 5393543
+14  chromedriver                        0x000000010520aacb chromedriver + 5536459
+15  chromedriver                        0x00000001051d6544 chromedriver + 5322052
+16  chromedriver                        0x00000001052286e8 chromedriver + 5658344
+17  chromedriver                        0x00000001052288af chromedriver + 5658799
+18  chromedriver                        0x000000010523a3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-06 09:46:04,326 - INFO - Completed confused - AD58 VNF: Search Failed
+2025-02-06 09:46:41,770 - ERROR - Search failed on https://www.confused.com/car-insurance/your-car: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105242bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010523a7ea chromedriver + 5732330
+2   chromedriver                        0x0000000104d28680 chromedriver + 415360
+3   chromedriver                        0x0000000104d79d7d chromedriver + 748925
+4   chromedriver                        0x0000000104d79f21 chromedriver + 749345
+5   chromedriver                        0x0000000104dca184 chromedriver + 1077636
+6   chromedriver                        0x0000000104da007d chromedriver + 905341
+7   chromedriver                        0x0000000104dc73e7 chromedriver + 1065959
+8   chromedriver                        0x0000000104d9fe23 chromedriver + 904739
+9   chromedriver                        0x0000000104d6bbea chromedriver + 691178
+10  chromedriver                        0x0000000104d6cd41 chromedriver + 695617
+11  chromedriver                        0x0000000105206100 chromedriver + 5517568
+12  chromedriver                        0x000000010520a040 chromedriver + 5533760
+13  chromedriver                        0x00000001051e7c87 chromedriver + 5393543
+14  chromedriver                        0x000000010520aacb chromedriver + 5536459
+15  chromedriver                        0x00000001051d6544 chromedriver + 5322052
+16  chromedriver                        0x00000001052286e8 chromedriver + 5658344
+17  chromedriver                        0x00000001052288af chromedriver + 5658799
+18  chromedriver                        0x000000010523a3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-06 09:46:41,771 - INFO - Completed confused - BW57 BOW: Search Failed
+2025-02-06 09:47:15,442 - ERROR - Search failed on https://www.confused.com/car-insurance/your-car: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105242bc8 chromedriver + 5766088
+1   chromedriver                        0x000000010523a7ea chromedriver + 5732330
+2   chromedriver                        0x0000000104d28680 chromedriver + 415360
+3   chromedriver                        0x0000000104d79d7d chromedriver + 748925
+4   chromedriver                        0x0000000104d79f21 chromedriver + 749345
+5   chromedriver                        0x0000000104dca184 chromedriver + 1077636
+6   chromedriver                        0x0000000104da007d chromedriver + 905341
+7   chromedriver                        0x0000000104dc73e7 chromedriver + 1065959
+8   chromedriver                        0x0000000104d9fe23 chromedriver + 904739
+9   chromedriver                        0x0000000104d6bbea chromedriver + 691178
+10  chromedriver                        0x0000000104d6cd41 chromedriver + 695617
+11  chromedriver                        0x0000000105206100 chromedriver + 5517568
+12  chromedriver                        0x000000010520a040 chromedriver + 5533760
+13  chromedriver                        0x00000001051e7c87 chromedriver + 5393543
+14  chromedriver                        0x000000010520aacb chromedriver + 5536459
+15  chromedriver                        0x00000001051d6544 chromedriver + 5322052
+16  chromedriver                        0x00000001052286e8 chromedriver + 5658344
+17  chromedriver                        0x00000001052288af chromedriver + 5658799
+18  chromedriver                        0x000000010523a3c8 chromedriver + 5731272
+19  libsystem_pthread.dylib             0x00007ff80acdf253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80acdabef thread_start + 15
+
+2025-02-06 09:47:15,444 - INFO - Completed confused - SG18 HTN: Search Failed
+2025-02-06 09:47:15,602 - INFO - HTML report generated: report.html
+2025-02-06 09:47:15,607 - INFO - Test execution completed
